@@ -1,0 +1,5 @@
+{
+	"ImportPath": "alert",
+	"GoVersion": "go1.4.2",
+	"Deps": []
+}

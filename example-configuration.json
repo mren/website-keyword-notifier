@@ -1,0 +1,12 @@
+[
+  {
+    "email": "user@example.com",
+    "keyword": "open source",
+    "url": "https://golang.org/"
+  },
+  {
+    "email": "user@example.com",
+    "keyword": "something-else",
+    "url": "https://golang.org/"
+  }
+]
